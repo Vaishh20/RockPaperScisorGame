@@ -1,2 +1,2 @@
-# RockPaperScisorGame
-This is a simple Rock–Paper–Scissors game project where the user can play against the computer.
+# Rock_Paper_Scisors_Game
+This is front end project devoloped using JS,HTML and  CSS.
